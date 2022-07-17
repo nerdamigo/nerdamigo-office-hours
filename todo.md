@@ -17,6 +17,8 @@
   * UX Views
     * Profile
     * Sign In (Cognito hosted? Or self-hosted w/ redirects)
+    * Add / Edit Question
+    * Current / Next Question(s) - for integration into stream
 
 * Authentication / Authorization
   * Twitch.tv auth here makes sense (can create a twitch app)
@@ -27,6 +29,8 @@
   * Chat bridging (between twitch / discord)
   * OH Announcement (LinkedIn, Discord, Slack Webhook(s), Twitter)
   * Question State Changes ("Thank you" email / DM; "You're next in line"; "Please clarify"...)
+  * Attendance / participation earns votes
+  * Inviting people who attend earns votes
 
 * "Question Environments"
   * Can the type of question preclude / pre-seed a sort of automated enviroment bootstrap? I.E. "The next question mentions AWS IAM, so deploy a known structure"
