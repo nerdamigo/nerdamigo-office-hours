@@ -1,4 +1,5 @@
 * Stream Control Concerns:
+  * Some kind of "ding" / alert for recent user join (only relevant when transitioning to > 0 viewers)
   * Figure out rapid muting (sneezing, etc)
   * Scene switching
   * "I'm Live" notifications
